@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+var o${1:} = {
+    key${2:} : 'value',
+    foo : function () {
+        
+    }
+};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ob</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

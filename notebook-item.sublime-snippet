@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<li>
+	${1:}<a href="">${2:}</a>${3:}
+	<span>
+		${4:}
+	</span>
+</li>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>nt-li</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

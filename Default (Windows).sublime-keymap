@@ -1,0 +1,11 @@
+[
+//注释
+{"keys": ["ctrl+`"], "command": "toggle_comment", "args": { "block": true } },
+//复制行+删除行
+{"keys": ["alt+a"], "command": "duplicate_line" },
+{"keys": ["alt+s"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"}},
+//撤销缩进
+{"keys": ["alt+z"], "command": "unindent" },
+{"keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"}},
+{"keys": ["alt+r"], "command": "autoprefixer" }
+]

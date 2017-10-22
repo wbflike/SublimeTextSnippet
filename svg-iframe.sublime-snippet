@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<iframe src="ex.svg" width="200" height="200" ></iframe>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>svg-iframe</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

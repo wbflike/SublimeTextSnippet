@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<input type="text" value='{{{{raw}}}} ${1:} {{{{/raw}}}}'>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>silkyraw</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

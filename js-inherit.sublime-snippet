@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+function createObj${1:}(name) {
+    // 基于原型创建一个新对象:
+    var o = Object.create(${2:origin_obj});
+    // 初始化新对象:
+    o.name = name;
+    return o;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>inherit</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
